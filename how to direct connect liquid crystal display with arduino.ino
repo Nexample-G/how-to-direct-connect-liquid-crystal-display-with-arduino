@@ -1,3 +1,8 @@
+/*
+* How To Direct Connect Liquid Crystal Display With Arduino
+* by Nexample,
+* https://youtu.be/_ZvMJQxe8bs
+*/
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(1, 2, 4, 5, 6, 7);
 void setup() {
